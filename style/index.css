@@ -1,0 +1,15 @@
+.elementor-6 .elementor-element.elementor-element-7d9ef260 {
+    padding: 17px 0px 0px 0px;
+}
+
+.elementor-column.elementor-col-50, .elementor-column[data-col="50"] {
+    width: unset !important;
+}
+.draw-inu-pad {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.widg-draw{
+    overflow: hidden;
+}
